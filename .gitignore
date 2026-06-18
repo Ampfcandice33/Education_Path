@@ -1,0 +1,10 @@
+.env
+/vendor/
+/node_modules/
+/target/
+legacy/springboot/target/
+storage/uploads/*
+!storage/uploads/.gitkeep
+*.log
+.DS_Store
+Thumbs.db
